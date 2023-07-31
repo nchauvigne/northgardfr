@@ -1,5 +1,5 @@
 <br>
-<h3><i class="fa fa-angle-right"></i> Présentation du clan du Corbeau</h3>
+<h3><i class="fa fa-angle-right"></i> Présentation du clan de l'Ours</h3>
 <br>
 
 <div class="row centered">

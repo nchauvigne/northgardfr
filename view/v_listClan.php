@@ -123,7 +123,7 @@
         </a>
     </div>
     <div class="col-md-3">
-        <a href="#">
+        <a href="index.php?uc=listClan&action=sanglier">
             <div class="content-panel centered">
                 <img src="img/clan_miniature/Sanglier.png">
                 <div class="h4" style="color: #2674a2; font-weight: bold; margin-bottom: 2px;">
@@ -319,7 +319,51 @@
                 <div style="">
                     Difficulté<br>
                     <div type="button" class="btn btn-theme03">★</div>
+                    <div type="button" class="btn btn-theme03">★</div>
+                    <div type="button" class="btn btn-theme03">★</div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="#">
+            <div class="content-panel centered">
+                <img src="img/clan_miniature/Aigle.png">
+                <div class="h4" style="color: #2674a2; font-weight: bold; margin-bottom: 2px;">
+                    Clan de l'Aigle (DLC)
+                </div>
+                <div style="font-style: italic">
+                    HRÆSVELG
+                </div>
+                <div style="text-align: justify; text-justify: inter-word; padding: 5% 5% 5% 5%; height: 150px;">
+                    Portés par les vents, les explorateurs de Hræsvelg n'ont nul besoin d'occuper un vaste territoire, puisqu'ils s'aventurent volontiers hors du leur pour trouver les ressources qui leur font défaut. Leur connaissance approfondie du terrain et leur capacité à en exploiter les moindres caractéristiques leur permettent de survivre dans les régions les plus désolées. Leur chef, Grif, est l'unique membre survivant d'un désormais disparu.
+                </div>
+                <div style="">
+                    Difficulté<br>
+                    <div type="button" class="btn btn-theme03">★</div>
                     <div type="button" class="btn btn-default">★</div>
+                    <div type="button" class="btn btn-default">★</div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="#">
+            <div class="content-panel centered">
+                <img src="img/clan_miniature/Lion.png">
+                <div class="h4" style="color: #2674a2; font-weight: bold; margin-bottom: 2px;">
+                    Royaume du Lion (DLC)
+                </div>
+                <div style="font-style: italic">
+                    Neustrie
+                </div>
+                <div style="text-align: justify; text-justify: inter-word; padding: 5% 5% 5% 5%; height: 150px;">
+                    Protégés par leurs fières forteresses, leurs nobles seigneurs et leurs saintes reliques, les dominions de la Neustrie ont rallié la bannière du Lion. La foi de ses pieux sujets ne vacille jamais face à l'adversité, car ils savent que les villes et les cathédrales de pierre se bâtissent à force de persévérance.
+                </div>
+                <div style="">
+                    Difficulté<br>
+                    <div type="button" class="btn btn-theme03">★</div>
+                    <div type="button" class="btn btn-theme03">★</div>
                     <div type="button" class="btn btn-default">★</div>
                 </div>
             </div>

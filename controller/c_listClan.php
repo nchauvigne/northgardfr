@@ -47,6 +47,11 @@ switch($action)
         include("view/v_serpent.php");
         break;
     }
+    case 'sanglier':
+    {
+        include("view/v_sanglier.php");
+        break;
+    }
 }
 
 ?>
