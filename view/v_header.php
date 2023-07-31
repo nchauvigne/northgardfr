@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Armello analytics tool">
+    <meta name="description" content="Northgard wiki FR">
     <meta name="author" content="Nicolas Chauvigné">
     <meta name="keyword" content="Northgard Wiki FR français">
     <title>Northgard FR</title>
@@ -36,12 +36,5 @@
         <!--logo start-->
         <a href="index.php" class="logo"><b>Northgard <span>FR</span></b></a>
         <!--logo end-->
-        <div class="top-menu">
-            <!--
-            <ul class="nav pull-right top-menu">
-                <li><a class="logout" href="index.php?uc=logout">Se déconnecter</a></li>
-            </ul>
-            -->
-        </div>
     </header>
     <!--header end-->

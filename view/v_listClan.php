@@ -101,7 +101,7 @@
 
 <div class="row mt">
     <div class="col-md-3">
-        <a href="#">
+        <a href="index.php?uc=listClan&action=ours">
             <div class="content-panel centered">
                 <img src="img/clan_miniature/Ours.png">
                 <div class="h4" style="color: #2674a2; font-weight: bold; margin-bottom: 2px;">
@@ -145,11 +145,11 @@
         </a>
     </div>
     <div class="col-md-3">
-        <a href="#">
+        <a href="index.php?uc=listClan&action=serpent">
             <div class="content-panel centered">
                 <img src="img/clan_miniature/Serpent.png">
                 <div class="h4" style="color: #2674a2; font-weight: bold; margin-bottom: 2px;">
-                    Clan du Serpent
+                    Clan du Serpent (DLC)
                 </div>
                 <div style="font-style: italic">
                     Sváfnir

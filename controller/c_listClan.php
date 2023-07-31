@@ -36,6 +36,17 @@ switch($action)
         include("view/v_corbeau.php");
         break;
     }
+
+    case 'ours':
+    {
+        include("view/v_ours.php");
+        break;
+    }
+    case 'serpent':
+    {
+        include("view/v_serpent.php");
+        break;
+    }
 }
 
 ?>
